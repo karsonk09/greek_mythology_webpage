@@ -11,6 +11,7 @@ Welcome to Greek Mythology Website's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+<<<<<<< HEAD
    nike/index
    hipnos/index
    dionysus/index
@@ -24,3 +25,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+=======
+   poseidon/index
+>>>>>>> 5cdb6d844e64713e7dbf415cfd5a7f83b783d79a
