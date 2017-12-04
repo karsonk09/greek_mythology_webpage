@@ -11,3 +11,6 @@ Welcome to Greek Mythology Website's documentation!
    :caption: Contents:
 
    poseidon/index
+   zeus/index
+   hades/index
+   aphrodite/index
