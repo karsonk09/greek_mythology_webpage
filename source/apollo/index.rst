@@ -1,7 +1,7 @@
 Apollo 
 ======
 
-.. image:: apollo.png
+.. image:: apollo.jpg
 
 Apollo is the Greek god of archery, music, knowledge, and the sun. 
 
