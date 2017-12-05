@@ -22,3 +22,7 @@ Welcome to Greek Mythology Website's documentation!
    hecate/index
    athena/index
    hestia/index
+   apollo/index
+   ares/index
+   artemis/index
+   hermes/index
