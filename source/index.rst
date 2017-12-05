@@ -21,4 +21,4 @@ Welcome to Greek Mythology Website's documentation!
    hephaestus/index
    hecate/index
    athena/index
-   janus/index
+   hestia/index
