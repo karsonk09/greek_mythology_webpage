@@ -21,3 +21,6 @@ Apollo has five symbols that represent him:
 
 the lyre
 the python 
+the common raven 
+the bow and arrow 
+the laurel wreath 
