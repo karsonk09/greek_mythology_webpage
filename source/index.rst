@@ -11,16 +11,19 @@ Welcome to Greek Mythology Website's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   zeus/index
+   poseidon/index
+   aphrodite/index
+   hades/index
+   apollo/index
+   ares/index
+   artemis/index
+   hermes/index
+   hephaestus/index
+   athena/index
+   hecate/index
+   hestia/index
    nike/index
    hypnos/index
    dionysus/index
    nemesis/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
