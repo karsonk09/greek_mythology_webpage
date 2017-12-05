@@ -18,3 +18,7 @@ Welcome to Greek Mythology Website's documentation!
    hypnos/index
    nemesis/index
    nike/index
+   hephaestus/index
+   hecate/index
+   athena/index
+   janus/index
