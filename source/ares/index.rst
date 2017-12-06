@@ -1,9 +1,10 @@
 Ares
 ====
 
-.. image:: 
+.. image:: ares.jpg
+    :width: 50%
 
-Ares is the Greek god of war, violence, and bloodshed. He is one of the many children of Zeus and of the main 12 Olympians.
+Ares is the Greek god of war, violence, and bloodshed. He is one of the many children of Zeus and one of the main 12 Olympians.
 
 The Birth of Ares
 ~~~~~~~~~~~~~~~~~~~~~
