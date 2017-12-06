@@ -1,11 +1,10 @@
-
 .. Greek Mythology Website documentation master file, created by
    sphinx-quickstart on Thu Nov 30 08:44:12 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Greek Mythology Website's documentation!
-===================================================
+The Gods of Greek Mythology
+===========================
 
 .. toctree::
    :maxdepth: 2

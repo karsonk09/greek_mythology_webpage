@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Hades
 =====
 
@@ -45,3 +47,5 @@ Hades' symbols:
 * Cypress
 * Narcissus
 * Key
+
+:doc:`Home Page </index>`

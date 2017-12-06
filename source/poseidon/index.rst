@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Poseidon
 ========
 
@@ -39,3 +41,5 @@ Poseidon has five symbols that represent him:
 * Bull
 * Seafoam
 * Dolphin
+
+:doc:`Home Page </index>`

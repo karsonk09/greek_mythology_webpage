@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Zeus
 ====
 
@@ -55,3 +57,7 @@ Zeus is symbolized by the following:
 4. Bull
 5. Oak Tree
 6. The Aegis (a shield)
+
+More info about Zeus can be found here: `Zeus <https://www.greekmythology.com>`_
+
+:doc:`Home Page </index>`
