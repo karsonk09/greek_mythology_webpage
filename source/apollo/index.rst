@@ -1,15 +1,14 @@
-Apollo 
+Apollo
 ======
 
-.. image:: apollo.jpg
+.. image:: apollo2.jpg
+	:width: 50%
 
-Apollo is the Greek god of archery, music, knowledge, and the sun. 
+Apollo is the Greek god of archery, music, knowledge, and the sun.
 
 The Origins of Apollo
 ~~~~~~~~~~~~~~~~~~~~~
-There will soon be more additional information about Apollo pretty soon. 
-
-.. image:: 
+There will soon be more additional information about Apollo pretty soon.
 
 Apollo info
 ~~~~~~~~~~~
