@@ -28,3 +28,15 @@ Hephaestus but mothered many other children including:
 ============= ============
 Father        Children
 ============= ============
+
+Ares          Anteros
+Ares          Deimos
+Ares          Eros
+Ares          Harmonia
+Ares          Phobos
+Adonis        Priapos
+Adonis        Beroe
+Hermes        Hermaphroditos
+Hermes        Iakkhos
+Poseidon      Rhodos
+============= ============
