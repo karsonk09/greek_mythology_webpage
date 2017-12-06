@@ -10,9 +10,9 @@ Birth of Apollo
 ~~~~~~~~~~~~~~~
 Apollo is the offspring of Zeus, the Greek god of the sky and king of the gods, and the Titan Leto.
 
-Apollo info
-~~~~~~~~~~~
-His roman counterpart name is Apollo. He is one of the few gods whose name doesn't change in Roman mythology. 
+Apollo's Children
+~~~~~~~~~~~~~~~~~
+More info will be added to this part of the page.  
 
 Apollo's Symbols
 ~~~~~~~~~~~~~~~~
