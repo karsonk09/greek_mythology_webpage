@@ -21,6 +21,7 @@ searched for Poseidon for a lengthy amount of time but could not find Poseidon
 because he was being raised by the Telchines on Rhodes.
 
 .. image:: rhea_deception.jpg
+	:width: 68%
 
 Poseidon's Children
 ~~~~~~~~~~~~~~~~~~~
