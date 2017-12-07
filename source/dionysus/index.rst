@@ -7,8 +7,8 @@ Dionysus
 
 Dionysus is the God of wine, vegetation, pleasure, madness, and a few other 
 things. He was known as the "twice born" because his mother was killed and his
-father carried him to term. Dionysus was depicted as being either an old bearded
- man or a young effeminate youth. 
+father carried him to term. Dionysus was depicted as being either an old bearded 
+man or a young effeminate youth. 
 
 Background
 ~~~~~~~~~~
@@ -27,7 +27,7 @@ Family of Dionysus
 * Parents: Zeus, the King of Gods and the princess Semele.
 * Wife: Ariadne, the princess of Crete.
 * Children: Dionysus had 20+ children, both devine and mortal. The most notable 
-were Priapus, Phthonus, and Deianira.
+  were Priapus, Phthonus, and Deianira.
 
 Followers of Dionysus
 ~~~~~~~~~~~~~~~~~~~~~
