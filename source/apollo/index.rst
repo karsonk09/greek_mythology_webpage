@@ -17,6 +17,8 @@ known for teaching man the art of medicine, as well as punishing them with
 ill-health and plague. Fun fact: in Greek mythology, he invented the lute 
 (a stringed instrument similar to a guitar). 
 
+.. image:: lute.jpg
+
 Birth of Apollo
 ~~~~~~~~~~~~~~~
 .. image:: apollo3.jpg
