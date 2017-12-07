@@ -4,6 +4,7 @@ Nike
 ====
 
 .. image:: nike.jpg
+    :width: 50%
 
 Nike is the Goddess of speed, strength, and victory in Greek Mythology. She was 
 also referred to as Winged Goddess. Nike was worshiped by many because they 

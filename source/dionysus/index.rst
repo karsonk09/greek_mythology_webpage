@@ -37,6 +37,7 @@ to the woods. They would enter a state of madness and try to rip apart and eat
 any wild animal they could find. 
 
 .. image:: dionysus2.jpg
+    :width: 50%
 
 Attributes
 ~~~~~~~~~~

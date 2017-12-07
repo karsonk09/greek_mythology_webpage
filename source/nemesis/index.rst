@@ -4,6 +4,7 @@ Nemesis
 =======
 
 .. image:: nemesis.jpg
+    :width: 50%
 
 Nemesis was the Goddess of divine retribution and revenge. She would show her 
 wrath to any human who committed hubris - arrogance before the Gods. Because of 
