@@ -20,6 +20,19 @@ Her father, though rarely mentioned, is beleived to be Erebus, God of Darkness.
 This parentage would make Nemesis a Goddess born of a generation that predates 
 Zeus and the Gods of Mount Olympus. 
 
+
+============= ==================
+Nemesis       Facts
+============= ==================
+Parents       ``Nyx and Erebus``
+Goddess of    ``Revenge``
+Home          ``Earth``
+Symbols       ``Sword and Lash``
+Sacred Animal ``Goose``
+Other Names   ``Adrasteia``
+============= ==================
+
+
 Attributes
 ~~~~~~~~~~
 
