@@ -13,13 +13,14 @@ man or a young effeminate youth.
 Background
 ~~~~~~~~~~
 
-Dionysus was a son of Zeus and Semele of Thebes. When she was pregnant, Hera 
-(Zeus' jealous wife) tricked her into asking Zeus to show her his power. Since 
-Semele was a mortal, she was consumed by the heat of his lightning bolts. Zeus 
-recovered the unborn child and stitched him into his own thigh until Dionysus 
-was born. After his birth, Hera hired Titans to kill him. He was killed and 
-brought back to life, then was sent to be raised by the mountain nymphs. 
-Dionysus eventually wandered the world expanding his group of followers. 
+Dionysus was a son of :doc:`Zeus </zeus/index>` and Semele of Thebes. When she 
+was pregnant, Hera (Zeus' jealous wife) tricked her into asking Zeus to show her 
+his power. Since Semele was a mortal, she was consumed by the heat of his 
+lightning bolts. Zeus recovered the unborn child and stitched him into his own 
+thigh until Dionysus was born. After his birth, Hera hired Titans to kill him. 
+He was killed and brought back to life, then was sent to be raised by the 
+mountain nymphs. Dionysus eventually wandered the world expanding his group of 
+followers. 
 
 Family of Dionysus
 ~~~~~~~~~~~~~~~~~~
