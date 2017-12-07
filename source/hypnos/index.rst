@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Hypnos
 ======
 
@@ -31,3 +33,5 @@ to sleep so Posiedon could help the Greeks in the Trojan War. Zeus never found
 out that he had been tricked again.
 
 .. image:: sleep.jpg
+
+:doc:`Home Page </index>`

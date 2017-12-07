@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Dionysus
 ========
 
@@ -53,3 +55,4 @@ who worshiped Dionysus wore wreaths of ivy and carried thyrsos.
 
 .. image:: grapevine.jpg
 
+:doc:`Home Page </index>`
