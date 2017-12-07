@@ -24,9 +24,9 @@ Dionysus eventually wandered the world expanding his group of followers.
 Family of Dionysus
 ~~~~~~~~~~~~~~~~~~
 
-*Parents: Zeus, the King of Gods and the princess Semele.
-*Wife: Ariadne, the princess of Crete.
-*Children: Dionysus had 20+ children, both devine and mortal. The most notable 
+* Parents: Zeus, the King of Gods and the princess Semele.
+* Wife: Ariadne, the princess of Crete.
+* Children: Dionysus had 20+ children, both devine and mortal. The most notable 
 were Priapus, Phthonus, and Deianira.
 
 Followers of Dionysus
