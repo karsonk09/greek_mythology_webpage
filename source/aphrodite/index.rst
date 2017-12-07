@@ -44,4 +44,18 @@ Hermes        ``Iakkhos``
 Poseidon      ``Rhodos``
 ============= ====================
 
+Symbols of Aprhodite
+~~~~~~~~~~~~~~~~~~~~
+
+Aphrodite's has many symbols compared to other gods and goddesses. Her symbols
+are as follows:
+
+* Scallop Shell
+* Pearl
+* Mirror
+* Girdle
+* Rose
+* Pomegranate
+* Dove, Sparrow, and Swan
+
 :doc:`Home Page </index>`

@@ -35,6 +35,7 @@ his wife Persephone or any other potential lovers. Persephone did not willingly
 marry Hades. She was abducted by Hades whilst picking flowers.
 
 .. image:: persephone.jpg
+	:width: 300px
 
 Hades' Symbols
 ~~~~~~~~~~~~~~
