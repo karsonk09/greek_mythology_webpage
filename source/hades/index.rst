@@ -7,7 +7,7 @@ Hades
 	:width: 38%
 
 Hades is known as the god of the underworld and one of the brothers of 
-:doc:`Zeus </zeus/index>` and Poseidon. After 
+:doc:`Zeus </zeus/index>` and :doc:`Poseidon </poseidon/index>`. After 
 :doc:`Zeus </zeus/index>` and 
 :doc:`Poseidon </poseidon/index>` 
 defeated what were known as the titans, :doc:`Zeus </zeus/index>`
