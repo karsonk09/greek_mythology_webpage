@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Hecate
 ======
 
@@ -25,3 +27,5 @@ Hecate's Symbols
 * 
 * 
 * 
+
+:doc:`Home Page </index>`
