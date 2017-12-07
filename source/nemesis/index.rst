@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Nemesis
 =======
 
@@ -30,3 +32,5 @@ fate can turn on you. People feared Nemesis, and her wrath is felt by the man
 under her foot in the image below:
 
 .. image:: nemesis.the.punisher.jpg
+
+:doc:`Home Page </index>`

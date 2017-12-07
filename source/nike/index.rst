@@ -1,3 +1,5 @@
+:doc:`Home Page </index>`
+
 Nike
 ====
 
@@ -26,3 +28,5 @@ most images includes a golden gown, a wreath, and sometimes the staff of Hermes.
 All of these things symbolize different aspects of war and victory.
 
 .. image:: nike-zeus.jpg
+
+:doc:`Home Page </index>`
