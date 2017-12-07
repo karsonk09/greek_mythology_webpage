@@ -4,7 +4,7 @@ Zeus
 ====
 
 .. image:: zeus.jpg 
-	:width: 50%
+	:width: 38%
 
 Zeus is the Greek god of the sky and the overall ruler of all of the ancient 
 Greek gods. Zeus is usually depicted as a large man with long hair and a long 
@@ -30,18 +30,18 @@ Zeus' Children
 Zeus was husband to Hera, greek goddess of the hearth, and fathered many 
 children indluding:
 
-* Apollo
-* Aphrodite
-* Ares
-* Artemis
-* Athena
-* Dionysus
-* Perseus
-* Heracles
-* Hermes
-* Hephaestus
-* Minos
-* the Muses
+1. Apollo
+2. Aphrodite
+3. Ares
+4. Artemis
+5. Athena
+6. Dionysus
+7. Perseus
+8. Heracles
+9. Hermes
+10. Hephaestus
+11. Minos
+12. the Muses
 
 and many more.
 
@@ -51,12 +51,12 @@ Zeus' Symbols
 ~~~~~~~~~~~~~
 Zeus is symbolized by the following:
 
-1. Thunderbolt
-2. Scepter
-3. Eagle
-4. Bull
-5. Oak Tree
-6. The Aegis (a shield)
+* Thunderbolt
+* Scepter
+* Eagle
+* Bull
+* Oak Tree
+* The Aegis (a shield)
 
 More info about Zeus can be found here: `Zeus <https://www.greekmythology.com>`_
 

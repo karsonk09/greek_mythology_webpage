@@ -58,4 +58,7 @@ are as follows:
 * Pomegranate
 * Dove, Sparrow, and Swan
 
+More information about Aphrodite can be found here:
+`Aphrodite <https://www.greekmythology.com/Olympians/Aphrodite/aphrodite.html>`_
+
 :doc:`Home Page </index>`

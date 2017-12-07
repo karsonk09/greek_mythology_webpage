@@ -42,4 +42,7 @@ Poseidon has five symbols that represent him:
 * Seafoam
 * Dolphin
 
+More info about Poseidon can be found here: 
+`Poseidon <https://www.greekmythology.com/Olympians/Poseidon/poseidon.html>`_
+
 :doc:`Home Page </index>`

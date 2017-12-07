@@ -24,7 +24,11 @@ mortals entered the Underworld they were transported by ferry across the
 river Styx by Charon (ferryman of Hades) where they would meet Cerberus on the 
 shore. After passing by Cerberus the spirits would proceed into the 
 Underworld to be judged. It is said that some spirits were returned to the 
-surface to haunt those who had not given them a proper burial.
+surface to haunt those who had not given them a proper burial. Below is a map of
+what the Underworld was believed to look like.
+
+.. image:: underworld.jpg
+	:width: 75%
 
 Hades' Children
 ~~~~~~~~~~~~~~~
@@ -48,5 +52,8 @@ Hades' symbols:
 * Cypress
 * Narcissus
 * Key
+
+More information about Hades can be found here: 
+`Hades <https://www.greekmythology.com/Olympians/Hades/hades.html>`_
 
 :doc:`Home Page </index>`
