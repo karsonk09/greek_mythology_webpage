@@ -14,13 +14,13 @@ Birth of Poseidon
 ~~~~~~~~~~~~~~~~~
 Poseidon was the second son of the titans Cronus and Rhea. Poseidon was said to 
 have been swallowed by Cronus shortly after his birth and was later saved by 
-his brother, Zeus. The image below depicts a different perspective on the birth 
-of Poseidon. Since Cronus was notorious for devouring his children as they were 
-born, Rhea made the decision to try to conceal her second born son, Poseidon, 
-by hiding him in a flock of lambs and telling Cronus that she had given birth 
-to a colt. Cronus devoured the colt and never noticed Poseidon. Cronus then 
-searched for Poseidon for a lengthy amount of time but could not find Poseidon 
-because he was being raised by the Telchines on Rhodes.
+his brother, :doc:`Zeus </zeus/index>`. The image below depicts a different 
+perspective on the birth of Poseidon. Since Cronus was notorious for devouring 
+his children as they were born, Rhea made the decision to try to conceal her 
+second born son, Poseidon, by hiding him in a flock of lambs and telling Cronus 
+that she had given birth to a colt. Cronus devoured the colt and never noticed 
+Poseidon. Cronus then searched for Poseidon for a lengthy amount of time but 
+could not find Poseidon because he was being raised by the Telchines on Rhodes.
 
 .. image:: rhea_deception.jpg
 	:width: 68%
