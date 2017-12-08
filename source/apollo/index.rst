@@ -55,4 +55,7 @@ Apollo is symbolized by the following:
 4. The python 
 5. The laurel wreath 
 
+More info about Apollo can be found here: 
+`Apollo <:https://www.greekmythology.com/Olympians/Apollo/apollo.html>`_
+
 :doc:`Home page </index>`

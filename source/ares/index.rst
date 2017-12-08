@@ -32,4 +32,7 @@ Ares is symbolized by the following:
 2. The hound 
 3. The vulture  
 
+More info about Ares can be found here: 
+`Ares <:https://www.greekmythology.com/Olympians/Aris/aris.html>`_
+
 :doc:`Home page </index>`
