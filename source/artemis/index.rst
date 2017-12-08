@@ -19,10 +19,22 @@ giving birth of land when she found out that Zeus, her husband, had impregnated
 Leto. A day after she was born she had to help assist her mother with giving 
 birth to her twin brother Apollo. When Artemis' birth, it is rumored in Greek 
 mythology that when she was a child she sat in Zeus' lap and asked him six 
-wishes: to always remain a virgin, to have a bow and arrow and a knee-length 
-tunic to hunt in, to have many names to set her apart from her twin brother 
-Apollo, to be ther Phaesporia (light bringer), to have sixty "daughters of 
-Okeanos" (nine years of age) to be her choir, and for twenty Amnisides Nymphs to 
+wishes: 
+
+1) To always remain a virgin. 
+
+2) To have a bow and arrow and a knee-length 
+tunic to hunt in. 
+
+3) To have many names to set her apart from her twin brother 
+Apollo.
+
+4) To be ther Phaesporia (light bringer).
+
+5) To have sixty "daughters of 
+Okeanos" (nine years of age) to be her choir.
+
+6) To have twenty Amnisides Nymphs to 
 be her handmaidens to watch her dogs 
 and bow while she rested. 
 
