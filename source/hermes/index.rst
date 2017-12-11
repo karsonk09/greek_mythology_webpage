@@ -46,10 +46,10 @@ Hermes' Symbols
 ~~~~~~~~~~~~~~~
 Hermes was symbolized by the following: 
 
-1) The winged sandals and helmet 
-2) the Cadeceus (staff)
-3) the tortoise 
-4) the hawk
+* The winged sandals and helmet 
+* The Cadeceus (staff)
+* The tortoise 
+* The hawk
 
 More info about Hermes can be found here: 
 `Hermes <https://www.greekmythology.com/Olympians/Hermes/hermes.html>`_

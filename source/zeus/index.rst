@@ -27,7 +27,7 @@ his siblings fought Cronus *and* the other titans for control over the universe.
 
 Zeus' Children
 ~~~~~~~~~~~~~~
-Zeus was husband to Hera, greek goddess of the hearth, and fathered many 
+Zeus was husband to Hera, Greek goddess of the hearth, and fathered many 
 children indluding:
 
 1. Apollo

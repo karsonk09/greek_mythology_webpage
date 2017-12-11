@@ -11,7 +11,7 @@ procreation. Ancient Greeks say that Aphrodite also inspired homosexual
 male desire. Aphrodite is, most of the time, depicted as a very beautiful woman 
 with long hair and a small amount of clothing (take into consideration that 
 such was acceptable and widely used in art in ancient Europe). There were also 
-ancient cities that worshipped a **male** form of Aphrodite.
+ancient cities that worshiped a **male** form of Aphrodite.
 
 Birth of Aphrodite
 ~~~~~~~~~~~~~~~~~~

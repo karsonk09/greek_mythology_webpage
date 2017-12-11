@@ -49,11 +49,11 @@ Apollo's Symbols
 ~~~~~~~~~~~~~~~~
 Apollo is symbolized by the following:
 
-1. The lyre
-2. The bow and arrow 
-3. The common raven 
-4. The python 
-5. The laurel wreath 
+* The lyre
+* The bow and arrow 
+* The common raven 
+* The python 
+* The laurel wreath 
 
 More info about Apollo can be found here: 
 `Apollo <https://www.greekmythology.com/Olympians/Apollo/apollo.html>`_
