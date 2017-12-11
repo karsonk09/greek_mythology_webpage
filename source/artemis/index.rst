@@ -47,4 +47,7 @@ Artemis is usually symbolized by the following:
 2) The bow and arrow 
 3) The hunting dog 
 
+More info about Artemis can be found here: 
+`Artemis <https://www.greekmythology.com/Olympians/Artemis/artemis.html>`_
+
 :doc:`Home page </index>`

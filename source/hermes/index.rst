@@ -52,6 +52,6 @@ Hermes was symbolized by the following:
 4) the hawk
 
 More info about Hermes can be found here: 
-`Hermes <:https://www.greekmythology.com/Olympians/Hermes/hermes.html>`_
+`Hermes <https://www.greekmythology.com/Olympians/Hermes/hermes.html>`_
 
 :doc:`Home page </index>`
