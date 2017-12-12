@@ -1,4 +1,5 @@
-.. //Hypnos//
+.. //Tucker Bluml//
+
 :doc:`Home Page </index>`
 
 Hypnos
