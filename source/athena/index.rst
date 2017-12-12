@@ -3,7 +3,7 @@
 Athena
 ======
 
-.. image:: Athene.jpg
+.. image:: athene.jpg
 	:width: 35%
 
 
@@ -30,7 +30,7 @@ Athena was born from the forehead of Zeus, completely armored and fully grown
 after Zeus had a massive headache. Some times it is stated that Hephaestus 
 split Zeus's head and then Athena was born.
 
-.. image:: Athena2.jpg
+.. image:: athena2.jpg
 	:width: 40%
 
 

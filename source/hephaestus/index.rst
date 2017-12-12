@@ -3,7 +3,7 @@
 Hephaestus
 ==========
 
-.. image:: Hephaistos.jpg
+.. image:: hephaistos.jpg
 
 Hephaestus is the god of fire, metalworking, smiths and the art of sculpture. 
 Hephaestus was the craftsmen for many of the immortals’’ weapons, dwellings and 
@@ -25,7 +25,7 @@ just Hera in response of Athena. Myths seem to place Hephaestus as older so
 that would not be the case. When he was born Hephaestus was weak and crippled. 
 Because of his ugliness, his parents through him down from Olympus.
 
-.. image:: Hephaistos2.jpg
+.. image:: hephaistos2.jpg
 	:width: 40%
 
 
