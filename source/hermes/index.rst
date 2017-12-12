@@ -6,7 +6,7 @@ Hermes
 .. image:: hermes1.jpg
     :width: 200px
 
-Hermes is the Greek god of travel, trade, theivery, and Messenger of the 
+Hermes is the Greek god of travel, trade, thievery, and Messenger of the 
 Gods. He is usually either depicted as a young, athletic, beardless youth or as 
 an older, bearded man with winged boots and a herald's wand. He was the Herald 
 and personal messenger of Zeus, king of the Greek gods and Hermes' father, and 
@@ -19,11 +19,11 @@ Birth of Hermes
 .. image:: hermes2.jpg
 
 Hermes is the son of Zeus and Maia. Maia was the daughter of Atlas, a Titan, and 
-Zeus snuck to her cave on Mount Kyllene in the middle of the night to seduce 
+Zeus snuck out to her cave on Mount Kyllene in the middle of the night to seduce 
 her. Hermes was born ten months afterwards. Almost right afterwards, the 
 new-born Hermes snuck out of his crib to steal some cattle from Apollo, and even
 crafter the first lyre out of a tortoise shell. Hermes told Battus, a shepherd 
-who saw him steal Apollo's cattle, not to tell anyone about his theivery. Battus 
+who saw him steal Apollo's cattle, not to tell anyone about his thievery. Battus 
 told Apollo anyway. As a result, Hermes went to Battus and touched him with his 
 staff, turning him into a stone. When Apollo found out he went to his father 
 Zeus to complain about it, but Zeus was actually impressed by all that Hermes 
