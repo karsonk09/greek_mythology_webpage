@@ -8,13 +8,14 @@ Hephaestus
 Hephaestus is the god of fire, metalworking, smiths and the art of sculpture. 
 Hephaestus was the craftsmen for many of the immortals’’ weapons, dwellings and 
 furnishings as well as some mortals’ equipment. His workshop has been placed 
-under a volcano causing it to erupt on many occasions. Zeus had Hephaestus and 
-Aphrodite married to hopefully avoid any wars over her. Aphrodite was 
-unfaithful to her husband and cheated on him many times, one of which was 
-Aries. At one point Hephaestus made a trap that left Aphrodite and Aries in a 
-golden net so the other gods could laugh at them. Athena and Hephaestus are 
-often associated with bringing the arts to man, though Athena is often more 
-popular. 
+under a volcano causing it to erupt on many occasions. 
+:doc:`Zeus </zeus/index>` had Hephaestus and 
+:doc:`Aphrodite </aphrodite/index>` married to hopefully avoid any wars over 
+her. Aphrodite was unfaithful to her husband and cheated on him many times, one 
+of which was :doc:`Ares </ares/index>`. At one point Hephaestus made a trap 
+that left Aphrodite and Ares in a golden net so the other gods could laugh at 
+them. Athena and Hephaestus are often associated with bringing the arts to man, 
+though :doc:`Athena </athena/index>` is often more popular. 
 
 
 Birth of Hephaestus

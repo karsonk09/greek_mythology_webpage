@@ -12,11 +12,14 @@ special temples are specifically for Hestia but every pyrtaneum was a sanctuary
 for her. Hestia has often been portrayed as a modestly vailed woman that is 
 sometimes holding a branch or with a kettle. The hearth was looked upon as the 
 symbol for the center of domestic life, so Hestia was the giver of domestic 
-happiness and blessings. She often appears next to Hermes as a deus penetralis, 
-for protecting the works of man. Hestia like Athena and Artemis are eternal 
-virgins. After Posiden and Apollo were after her hand she swore on Zeus’s head 
-that she would remain a virgin for all time. Honoring Hestia for her oath, Zeus 
-made Hestia in charge of his royal hearth.
+happiness and blessings. She often appears next to 
+:doc:`Hermes </hermes/index>` as a *deus penetralis*, for protecting the works 
+of man. Hestia like :doc:`Athena </artemis/index>` and 
+:doc:`Artemis </artemis/index>` are eternal virgins. After 
+:doc:`Poseidon </poseidon/index>` and :doc:`Apollo </apollo/index>` were after 
+her hand she swore on Zeus’s head that she would remain a virgin for all time. 
+Honoring Hestia for her oath, :doc:`Zeus </zeus/index>` made Hestia in 
+charge of his royal hearth.
 
 
 Birth of Hestia

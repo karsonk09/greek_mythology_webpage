@@ -12,13 +12,14 @@ hunting boots. Another depiction for her is a goddess with tree faces and
 bodies, one of a young maiden then next and a mother figure and the last as a 
 crone. Hecate is also associated with crossroads, doorways and realms beyond 
 the world resulting in her dealing with spirits and Hades. She is also a virgin 
-goddess like others namely Artemis, Athena and Hestia. When Persephone went 
-missing Demeter came and asked Hecate to help her search and she did just that. 
-Guiding Demeter with two torches in hand she leads her to Persephone and into 
-Hades. After their reunion Hecate became Persephone’s companion in Hades. 
-Hecate is a goddess of protection especially of women, whenever they travel or 
-are in labor she watches over them. She also helps the elderly to make a smooth 
-transition to the afterlife.
+goddess like others namely :doc:`Artemis </artemis/index>`, 
+:doc:`Athena </athena/index>` and :doc:`Hestia </hestia/index>`. When 
+Persephone went missing Demeter came and asked Hecate to help her search and 
+she did just that. Guiding Demeter with two torches in hand she leads her to 
+Persephone and into Hades. After their reunion Hecate became Persephone’s 
+companion in Hades. Hecate is a goddess of protection especially of women, 
+whenever they travel or are in labor she watches over them. She also helps the 
+elderly to make a smooth transition to the afterlife.
 
 
 
