@@ -4,7 +4,7 @@ Hestia
 ======
 
 .. image:: hestia.jpg
-	:width: 40%
+	:width: 35%
 
 Hestia is the goddess of the hearth and home. She is also the goddess of 
 sacrificial flame, then getting a part of every sacrifice to the gods. Very few 
